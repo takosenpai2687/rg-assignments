@@ -99,6 +99,8 @@ public class EmployeeJDBC {
         } catch (SQLException e) {
             e.printStackTrace();
         }
+
+        return employees;
     }
 
     // Update: return true if employee is updated, false if not found

@@ -1,6 +1,6 @@
-CREATE DATABASE company;
+CREATE DATABASE week2;
 
-USE company;
+USE week2;
 
 CREATE TABLE t_employee
 (
