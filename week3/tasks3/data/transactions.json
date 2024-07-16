@@ -1,0 +1,30 @@
+[
+  {
+    "tid": 1,
+    "name": "Karthik",
+    "to": "Rajesh",
+    "amount": 100,
+    "reason": "Payment for services"
+  },
+  {
+    "tid": 2,
+    "name": "Srinivas",
+    "to": "Prasad",
+    "amount": 200,
+    "reason": "Loan repayment"
+  },
+  {
+    "tid": 3,
+    "name": "Fatima",
+    "to": "Ayesha",
+    "amount": 150,
+    "reason": "Gift"
+  },
+  {
+    "tid": 4,
+    "name": "Michael",
+    "to": "Sarah",
+    "amount": 250,
+    "reason": "Purchase"
+  }
+]
